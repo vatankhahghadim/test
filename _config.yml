@@ -1,4 +1,4 @@
-remote_theme: mediator
+theme: jekyll-theme-architect
 
 plugins:
   - jekyll-seo-tag
